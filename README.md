@@ -20,7 +20,7 @@
     <td>Python, Pandas, NumPy, Matplotlib, Seaborn, data preprocessing, data analysis, business analysis </td> 
     </tr>
   <td><a 
-  href= https://github.com/ddzhioeva/Projects/blob/main/Research%20of%20Borrowers'%20Reliability/Research%20of%20Borrowers%20Reliability.ipynb>Research of BorrowersReliability> The real estate marketing research</a></td>
+  href=https://github.com/ddzhioeva/Projects/blob/main/Research%20of%20Borrowers'%20Reliability/Research%20of%20Borrowers'%20Reliability.ipynb>Research of Borrowers Reliability</a></td>
     <td> The client is the Credit department of the bank. The tasks consist of recognizing whether the marital status and the number of children of the client affect the repayment of the loan on time. Input data from the bank - statistics on the solvency of customers. The study's results will be considered when building a credit scoring model - a particular system that assesses the ability of a potential borrower to repay a loan to a bank. </td>
     <td>Python, Pandas, NumPy, Matplotlib, Seaborn, data preprocessing, data analysis, business analysis </td> 
     </tr>
